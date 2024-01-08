@@ -1,6 +1,6 @@
 # About
 
-This is a svelte slide. In order to use it, clone this project and start adding the slides inside `src\lib\deck\presentation.svelte`.
+This is a svelte slide, based on [Joy of Code project](https://youtu.be/67lqa5kTQkA?si=yknwrNDwdL4lvhgj). In order to use it, clone this project and start adding the slides inside `src\lib\deck\presentation.svelte`.
 
 ## Avaliable components
 
