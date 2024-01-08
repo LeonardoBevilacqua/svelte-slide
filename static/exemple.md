@@ -1,10 +1,10 @@
-## Slide 1
+## Markdown Slide 1
 
 Hello
 
 ---
 
-## Slide 2
+## Markdown Slide 2
 
 ```js [1-2|3|4]
 let a = 1;
